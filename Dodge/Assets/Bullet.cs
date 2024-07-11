@@ -7,7 +7,6 @@ public class Bullet : MonoBehaviour
     public float speed = 8f;
     private Rigidbody bulletRigidbody;
 
-    // Start is called before the first frame update
     void Start()
     {
         bulletRigidbody = GetComponent<Rigidbody>();
