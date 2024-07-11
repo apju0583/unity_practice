@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638560994311947687
-    m_Hash: 1399425988
+      ticks: 638562755545831073
+    m_Hash: 1289495792
   m_LockFileStatus:
     m_FilePath: "C:/Users/gangm/OneDrive/\uBC14\uD0D5 \uD654\uBA74/unity_practice/Dodge/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638560994312041556
-    m_Hash: 3896822541
+      ticks: 638562755545851011
+    m_Hash: 525675221
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
